@@ -7,17 +7,17 @@ In the above example we are trying to insert data into a file by using _**MODE_P
 In below screen we are looking at first screen of the output.
 
 ### Preview in Portrait Mode
-![screenshot-1](src/main/res/previews/1.png)
+![screenshot-1](src/main/res/previews/1.PNG)
    
    
 In below screen we are inserting data.
    
-![screenshot-1](src/main/res/previews/2.png)
+![screenshot-2](src/main/res/previews/2.PNG)
    
    
    In below screen when we click on READ button we are able to read data.
    
    
 ### Preview in Portrait Mode
-![screenshot-1](src/main/res/previews/3.png)
+![screenshot-3](src/main/res/previews/3.PNG)
    
