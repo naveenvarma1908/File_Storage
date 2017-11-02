@@ -12,7 +12,6 @@ In below screen we are looking at first screen of the output.
    
 In below screen we are inserting data.
    
-### Preview in Portrait Mode
 ![screenshot-1](src/main/res/previews/2.png)
    
    
